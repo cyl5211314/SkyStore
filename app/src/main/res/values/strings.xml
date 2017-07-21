@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">天空购物城</string>
+    <string name="app_home">首页</string>
+    <string name="app_class">分类</string>
+    <string name="app_my">我的</string>
+    <string name="app_shopping">购物车</string>
+    <string name="app_saoyisao">扫一扫</string>
+    <string name="app_baobei">宝贝</string>
+    <string name="app_dianpu">店铺</string>
+    <string name="app_seekdelete">X清除历史记录</string>
+    <string name="title_activity_rqccode">RqccodeActivity</string>
+</resources>
